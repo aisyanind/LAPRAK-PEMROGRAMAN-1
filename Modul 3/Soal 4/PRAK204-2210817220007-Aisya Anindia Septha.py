@@ -1,0 +1,19 @@
+phi = 3.142857
+r = float (input(""))
+t = float (input(""))
+V = phi*(r*r)*t
+L = 2*phi*r*(r+t)
+K = 2*phi*r
+print("\nVolume   = %.2f" %V)
+print("Luas     = %.2f" %L)
+print("Keliling = %.2f\n" %K)
+
+r1, t1 = input().split()
+r1 = float (r1)
+t1 = float (t1)
+V1 = phi*(r1*r1)*t1
+L1 = 2*phi*r1*(r1+t1)
+K1 = 2*phi*r1
+print("\nVolume   = %.2f" %V1)
+print("Luas     = %.2f" %L1)
+print("Keliling = %.2f\n" %K1)
