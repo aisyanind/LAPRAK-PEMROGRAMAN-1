@@ -1,7 +1,0 @@
-a = input ("Nama                    :")
-b = input ("NIM                     :")
-c = input ("Kelas Paralel           :")
-d = input ("Tempat/Tanggal Lahir    :")
-e = input ("Alamat                  :")
-f = input ("Hobby                   :")
-g = input ("No. HP                  :")
